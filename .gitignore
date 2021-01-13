@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binaries for programs and plugins
 *.exe
 *.dll
@@ -21,3 +22,14 @@ api-flights
 .vscode
 .terraform
 .idea
+=======
+.git
+*.swp
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS code
+*.code-workspace
+>>>>>>> 2740f7f782ac194261316cdde8c93f890224180c
