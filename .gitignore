@@ -21,3 +21,13 @@ api-flights
 .vscode
 .terraform
 .idea
+
+.git
+*.swp
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS code
+*.code-workspace
